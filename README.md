@@ -12,7 +12,7 @@ Projeto desenvolvido para a disciplina de **Algoritmos e Estruturas de Dados**, 
 
 - Diego Vinicius – 12523158675  
 - Jhonattan Mariano – 824120739  
-- João Gobbi – 824120739  
+- João Gobbi – 824145710  
 - Matheus Yusuke – 825146805  
 - Nicolas Trindade – 824135758  
 
