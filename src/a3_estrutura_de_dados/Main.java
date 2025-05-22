@@ -8,7 +8,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         // Entrada dos volumes
-        System.out.println("Digite os volumes dos containers:");
+        System.out.println("Digite os volumes dos containers: (separe os volumes por espaço)");
         String[] entrada = scanner.nextLine().split(" ");
         int[] containers = new int[entrada.length];
         for (int i = 0; i < entrada.length; i++) {
